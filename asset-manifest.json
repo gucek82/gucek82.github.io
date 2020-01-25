@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e91f328.chunk.css",
+    "main.js": "/static/js/main.7d751c20.chunk.js",
+    "main.js.map": "/static/js/main.7d751c20.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b3ed3309.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b3ed3309.js.map",
+    "static/js/2.d62bcc1e.chunk.js": "/static/js/2.d62bcc1e.chunk.js",
+    "static/js/2.d62bcc1e.chunk.js.map": "/static/js/2.d62bcc1e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f48bc6aa5aeb928a3ce6e8b668b0dbfd.js": "/precache-manifest.f48bc6aa5aeb928a3ce6e8b668b0dbfd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3e91f328.chunk.css.map": "/static/css/main.3e91f328.chunk.css.map",
+    "static/js/2.d62bcc1e.chunk.js.LICENSE": "/static/js/2.d62bcc1e.chunk.js.LICENSE",
+    "static/media/akademia108.jpg": "/static/media/akademia108.7c7b0cfd.jpg",
+    "static/media/Header.css": "/static/media/myAvatar.ea5220ab.png",
+    "static/media/git.jpg": "/static/media/git.d9e0fe48.jpg",
+    "static/media/html.jpg": "/static/media/html.1c6fc5c7.jpg",
+    "static/media/javascript.jpg": "/static/media/javascript.c46a1b10.jpg",
+    "static/media/javascript_sp.jpg": "/static/media/javascript_sp.d6b412af.jpg",
+    "static/media/nozyczki.png": "/static/media/nozyczki.d2b3b7ba.png",
+    "static/media/papier.png": "/static/media/papier.ecede3a4.png",
+    "static/media/react_sp.jpg": "/static/media/react_sp.0b7f45b3.jpg",
+    "static/media/HomePage.css": "/static/media/ulstyle.47bd344b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3ed3309.js",
+    "static/js/2.d62bcc1e.chunk.js",
+    "static/css/main.3e91f328.chunk.css",
+    "static/js/main.7d751c20.chunk.js"
+  ]
+}
